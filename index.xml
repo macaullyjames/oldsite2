@@ -5,7 +5,17 @@
     <link>https://macaullyjames.com/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://macaullyjames.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Nov 2020 18:17:37 +0100</lastBuildDate><atom:link href="https://macaullyjames.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Initial commit</title>
+      <link>https://macaullyjames.com/posts/my-first-post/</link>
+      <pubDate>Thu, 19 Nov 2020 18:17:37 +0100</pubDate>
+      
+      <guid>https://macaullyjames.com/posts/my-first-post/</guid>
+      <description>It works!</description>
+    </item>
+    
     <item>
       <title>Archive</title>
       <link>https://macaullyjames.com/archives/</link>
